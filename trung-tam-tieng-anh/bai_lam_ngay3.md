@@ -2,7 +2,7 @@
 
 - **Họ tên:**Lê Hồng Quân
 - **Lớp:**CNTT2
-- **Link repository:**
+- **Link repository:**https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_OnTap-Ngay3/tree/main/trung-tam-tieng-anh
 - **Hệ điều hành (Windows/macOS):**Windows
 
 ## Bài 1. README.md
